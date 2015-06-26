@@ -1,2 +1,3 @@
 # sparkcentral
-test
+
+simple iteration of a CL calculator
